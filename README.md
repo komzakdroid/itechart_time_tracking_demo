@@ -1,3 +1,3 @@
 # itechart_time_tracking_demo
 
-:iTechART time tracking demo app
+:iTechArt time tracking demo app
